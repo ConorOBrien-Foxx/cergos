@@ -1,0 +1,56 @@
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro|Press+Start+2P';
+
+html {
+    font-family: "Source Sans Pro", sans-serif;
+    background: #22CC33;
+    margin: 0;
+    font-size: 20px;
+}
+
+#container {
+    text-align: center;
+    background: white;
+    width: 780px;
+    margin: 20px auto;
+    height: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+#buttons {
+    padding-bottom: 10px;
+}
+
+#buttons button {
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 20px;
+    background: #22CC33;
+    border: 0;
+    padding: 10px;
+}
+
+#buttons button:hover {
+    background: #44EE55;
+    cursor: pointer;
+}
+
+header, #title {
+    font-family: "Press Start 2P", sans-serif;
+    font-weight: normal;
+}
+
+#logo {
+    font-size: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: #3322CC;
+}
+
+header {
+    margin: 0;
+    font-size: 26px;
+    text-align: center;
+}
